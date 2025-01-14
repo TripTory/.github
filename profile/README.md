@@ -1,5 +1,5 @@
 # TripTory <img src="https://github.com/user-attachments/assets/8e54ca2e-8b58-4c18-8c41-d477be83fb6d" width="100" align="left" />
-여여행의 순간을 더 간편하고 아름답게 기억할 수 있도록, 생성형AI여행기록 서비스
+여행의 순간을 더 간편하고 아름답게 기억할 수 있도록, 생성형AI여행기록 서비스
 
 <br/> 
 
